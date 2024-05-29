@@ -12,3 +12,9 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Hrushikesh008/Task_Learning_GitHub.git
 git push -u origin main
+
+
+//updates
+git add .
+git commit -m "second commit"
+git push
